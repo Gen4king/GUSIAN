@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "BotNiGusian",
     "password": "Olok",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "AlphazoneS2.aternos.me",
     "port": 16776,
-    "version": "",
+    "version": "1.21.131",
     "try-creative": false
   },
   "position": {
