@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "BotNiGusian",
     "password": "Olok",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "AlphazoneS2.aternos.me",
