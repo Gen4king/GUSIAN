@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Notch",
-    "password": "Blodiab",
+    "username": "BotNiGusian",
+    "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "TENEOSMP.aternos.me",
-    "port": 36853,
-    "version": "1.21.131",
+    "ip": "AlphazoneS2.aternos.me",
+    "port": 16776,
+    "version": "",
     "try-creative": false
   },
   "position": {
